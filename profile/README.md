@@ -3,7 +3,7 @@
 
 Klauke Enterprises is a founder-managed IT and hosting company with over eight years of cumulative expertise. We focus on the highest quality in our products, as well as on success and security for our customers.
 
-We provide Managed Services for your IT-Products, Colocation and Hosting in the heart of the European Digital Hub, DDOS Protection for your services as well as Dedicated Servers according to your needs, custom-tailored Software Solutions and a scalable Private Cloud just to server your preferences.
+We provide Managed Services for your IT-Products, Colocation and Hosting in the heart of the European Digital Hub, DDOS Protection for your services as well as Dedicated Servers according to your needs, custom-tailored Software Solutions and a scalable Private Cloud just to serve your preferences.
 
 You can contact us on our homepage https://klauke-enterprises.com or via phone [+49 (0) 291 99813985](tel:4929199813985)
 
